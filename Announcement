@@ -1,6 +1,6 @@
 return {
   path = {
-    YourName = 'test',
+    Announcer = 'test',
     Announcement = 'ANNOUNCEMENT HERE'
   }
 }
