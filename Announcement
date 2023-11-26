@@ -1,0 +1,5 @@
+return {
+  path = {
+    Announcement = 'ANNOUNCEMENT HERE'
+  }
+}
