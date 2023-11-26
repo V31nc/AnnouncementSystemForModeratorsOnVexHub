@@ -1,8 +1,8 @@
 return {
   path = {
-    Announcer = 'GamingScripter', -- put your name here
+    Announcer = 'BotMFragger', -- put your name here
     AnnouncerUsernameColor = '255,255,255', -- put the rgb number here (this makes ur name have color)
-    Announcement = 'shit' -- your announcement here
+    Announcement = 'Greetings, fellow VHub users! I am here to announce the durability of my mentality, and the sheer power of my mental stability. Insult me all you wish! My brain is too smooth..  the smoothest there is! Your words simply slide right off!' -- your announcement here
   }
 }
 
