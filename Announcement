@@ -1,6 +1,6 @@
 return {
   path = {
-    Announcer = "BotMFragger", -- put your name here
+    Announcer = "SPACE", -- put your name here
     AnnouncerUsernameColor = "28,203,87", -- put the rgb number here (this makes ur name have color)
     Announcement = "Stop being in discord just for a key,be active in it,we doin giveaways in and shit so yup,go be active ig,and kill yo" -- your announcement here
   }
