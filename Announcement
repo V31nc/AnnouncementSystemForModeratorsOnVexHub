@@ -1,7 +1,9 @@
 return {
   path = {
-    Announcer = 'test',
-    AnnouncerUsernameColor = "255,255,255",
-    Announcement = 'ANNOUNCEMENT HERE'
+    Announcer = 'YOUR NAME HERE', -- put your name here
+    AnnouncerUsernameColor = '255,255,255', -- put the rgb number here (this makes ur name have color)
+    Announcement = 'ANNOUNCEMENT HERE' -- your announcement here
   }
 }
+
+-- DO NOT ERASE INSTRUSTIONS!
