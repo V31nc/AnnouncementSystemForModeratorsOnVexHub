@@ -1,6 +1,7 @@
 return {
   path = {
     Announcer = 'test',
+    AnnouncerUsernameColor = "255,255,255",
     Announcement = 'ANNOUNCEMENT HERE'
   }
 }
