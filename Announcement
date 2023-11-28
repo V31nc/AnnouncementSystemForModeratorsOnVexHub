@@ -2,7 +2,7 @@ return {
   path = {
     Announcer = "SPACE", -- put your name here
     AnnouncerUsernameColor = "28,203,87", -- put the rgb number here (this makes ur name have color)
-    Announcement = "We reinnovated discord server,consider checking it,and fr be online exploiting kids" -- your announcement here
+    Announcement = "Yall be active in our discord (to join press blue button down here),and enjoy the VexhHub,If you got any issues report them in discord" -- your announcement here
   }
 }
 
